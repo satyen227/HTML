@@ -1,6 +1,7 @@
-/* span {
+span {
   color: red;
-} */
+  display: none;
+}
 h1 {
     color: orange;
 }
