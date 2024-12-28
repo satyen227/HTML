@@ -1,24 +1,22 @@
 span {
-  color: red;
-  display: none;
+  color: rgba(255, 0, 0, 0.5);
+  /* display: none; */
 }
 h1 {
-    color: orange;
+  color: orange;
 }
 button {
-    color: white;
-    background-color: blue;\
-    
+  color: white;
+  background-color: blue;
 }
 p {
-    color: rgb(108, 46, 46);
-    background-color: rgb(175, 220, 136);
-    border: 5px solid ;
-    border-left-color: chocolate;
-    border-right-color: blue;
-    border-bottom-color: chartreuse;
-    border-top-color: fuchsia;
-    width: 50%;
-    padding: 10px;
+  color: rgb(108, 46, 46);
+  background-color: rgb(175, 220, 136);
+  border: 5px solid;
+  border-left-color: chocolate;
+  border-right-color: blue;
+  border-bottom-color: chartreuse;
+  border-top-color: fuchsia;
+  width: 50%;
+  padding: 10px;
 }
-
