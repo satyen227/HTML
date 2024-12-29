@@ -1,17 +1,17 @@
 .face {
-  background-color: rgb(230, 193, 7);
+  background-color: #fcba03;
   height: 400px;
   width: 400px;
   border-radius: 50%;
 }
 .mouth {
-  background-color: brown;
+  background-color: #950707;
   height: 75px;
   width: 200px;
   border-radius: 0 0 50px 50px;
   position: absolute;
   top: 275px;
-  left: 100px;
+  left: 105px;
 }
 .eyeleft {
   background-color: black;
@@ -20,7 +20,7 @@
   border-radius: 50%;
   position: absolute;
   top: 70px;
-  left: 80px;
+  left: 85px;
 }
 .eyeright {
   background-color: black;
@@ -29,5 +29,5 @@
   border-radius: 50%;
   position: absolute;
   top: 70px;
-  left: 220px;
+  left: 225px;
 }
