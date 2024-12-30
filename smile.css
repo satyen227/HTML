@@ -8,10 +8,13 @@
   background-color: #950707;
   height: 75px;
   width: 200px;
-  border-radius: 0 0 50px 50px;
+  border-radius: 50px 50px 0 0;
   position: absolute;
   top: 275px;
   left: 105px;
+}
+.mouth:hover {
+  border-radius: 0 0 50px 50px;
 }
 .eyeleft {
   background-color: black;
