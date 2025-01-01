@@ -1,0 +1,17 @@
+#container {
+  height: 300px;
+  width: 80%;
+  background-color: aquamarine;
+  margin: 10px auto;
+  border: 2px solid black;
+  display: flex;
+  /* flex-direction: column; */
+  /* flex-wrap: wrap; */
+}
+h1 {
+  text-align: center;
+}
+#cont {
+  height: 100px;
+  width: 300px;
+}
