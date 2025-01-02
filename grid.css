@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+#grid {
+  height: 200px;
+  width: 80%;
+  background-color: rgb(116, 192, 184);
+  display: grid;
+  margin: 10px auto;
+  border: 2px solid black;
+}
